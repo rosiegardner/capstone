@@ -11,4 +11,9 @@
 * 2:00: Continue building along with youtube tutorial
 * 2:25: BUGFIX - IN TUTORIAL.
 * 3:10: Continue building along with youtube tutorial.
+* 4:25: Pushed up to github - finish tutorial tomorrow 8/26
+
+* `https://github.com/rosiegardner/firebase-practice.git`
+
+# Hours Worked: 5hr & 40min
 
