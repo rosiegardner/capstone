@@ -12,8 +12,9 @@
 * Database for storage.
 
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
-* React front end
-* PostgreSQL or Firebase for data/storage
+* React frontend
+* Firebase backend?
+* PostgreSQL?
 * HTML/CSS
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
@@ -21,9 +22,11 @@
 * Insert paypal for donations / appreciation / tips to the artist for their work.
 * Potential users can create an account and display their own artwork.
 * Interview section for members of featured bands - other local artists.
+* React Native for Mobile
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-* Undecided
+* TypeScript.js?
+* Media Player
 
 ## Is there anything else you'd like your instructor to know?
 * N/A 
