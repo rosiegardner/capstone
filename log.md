@@ -10,4 +10,5 @@
 * 1:30: < break for lunch >
 * 2:00: Continue building along with youtube tutorial
 * 2:25: BUGFIX - IN TUTORIAL.
+* 3:10: Continue building along with youtube tutorial.
 
