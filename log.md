@@ -20,6 +20,7 @@
 * 11:40: Continue building along with youtube tutorial
 * 12:15: watch tutorial for adding animations ( framer motion )
 * `framer.com`
+* 12:25: continue building along with youtube tutorial - adding animations with framer
 
 # Hours Worked: 5hr & 40min
 
