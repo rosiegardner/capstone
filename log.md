@@ -15,5 +15,9 @@
 
 * `https://github.com/rosiegardner/firebase-practice.git`
 
+#### Friday, August 26th, 2022 (08/26/22)
+
+* 11:40: Continue building along with youtube tutorial
+
 # Hours Worked: 5hr & 40min
 
