@@ -20,8 +20,11 @@
 * `framer.com`
 * 12:25: continue building along with youtube tutorial - adding animations with framer
 * 12:45: finish build with tutorial with framer motion.
+* < resting of the eyes and brain >
+* 2:20: start README.md
+* 2:25: finish README.md 
 
 * `https://github.com/rosiegardner/firebase-practice.git`
 
-# Hours Worked: 6hr & 45min
+# Hours Worked: 6hr & 50min
 
