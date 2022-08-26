@@ -18,6 +18,8 @@
 #### Friday, August 26th, 2022 (08/26/22)
 
 * 11:40: Continue building along with youtube tutorial
+* 12:15: watch tutorial for adding animations ( framer motion )
+* `framer.com`
 
 # Hours Worked: 5hr & 40min
 
