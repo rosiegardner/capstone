@@ -13,14 +13,15 @@
 * 3:10: Continue building along with youtube tutorial.
 * 4:25: Pushed up to github - finish tutorial tomorrow 8/26
 
-* `https://github.com/rosiegardner/firebase-practice.git`
-
 #### Friday, August 26th, 2022 (08/26/22)
 
 * 11:40: Continue building along with youtube tutorial
 * 12:15: watch tutorial for adding animations ( framer motion )
 * `framer.com`
 * 12:25: continue building along with youtube tutorial - adding animations with framer
+* 12:45: finish build with tutorial with framer motion.
 
-# Hours Worked: 5hr & 40min
+* `https://github.com/rosiegardner/firebase-practice.git`
+
+# Hours Worked: 6hr & 45min
 
