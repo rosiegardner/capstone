@@ -27,6 +27,7 @@
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * TypeScript.js?
 * Media Player
+* Framer motion for react for adding animations?
 
 ## Is there anything else you'd like your instructor to know?
 * N/A 
